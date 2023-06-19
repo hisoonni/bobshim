@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bobshim</string>
+    <string name="order">order</string>
+    <string name="home">home</string>
+    <string name="appbar_title_text">%s님,\n오늘도 좋은 하루 보내세요</string>
+    <string name="appbar_star_title">%d/%d★</string>
+    <string name="recommend_title">%s님을 위한 추천 가게</string>
+    <string name="food_menu_title">주변 쉼터 정보 보기</string>
+    <string name="delivery">지도 보기</string>
+</resources>

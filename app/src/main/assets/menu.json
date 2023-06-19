@@ -1,0 +1,48 @@
+{
+  "coffee": [
+    {
+      "name": "더 쉐프",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "유진",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "동락초밥",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "돌솥마을",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "세븐일레븐 대전탄방점",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "준자네",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "GS25 대전시청점",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "GS25 대전시청점",
+      "image": "https://picsum.photos/100/100"
+    }
+  ],
+  "food": [
+    {
+      "name": "대전청소년쉼터",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "대전광역시 청소년여자쉼터",
+      "image": "https://picsum.photos/100/100"
+    }
+
+  ]
+
+}
